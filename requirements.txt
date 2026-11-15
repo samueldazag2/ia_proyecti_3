@@ -1,0 +1,13 @@
+# Dependencias de ejecución (versiones mínimas; probado con las indicadas en el README)
+pandas>=2.2
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+seaborn>=0.13
+scikit-learn>=1.4
+jupyter>=1.0
+# Pruebas
+pytest>=8.0
+pytest-cov>=5.0
+# Instala el propio paquete (src layout) en modo editable
+-e .

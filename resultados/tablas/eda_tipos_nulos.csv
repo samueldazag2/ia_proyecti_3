@@ -1,0 +1,16 @@
+,tipo,nulos,pct_nulos,unicos
+age,int64,0,0.0,74
+workclass,str,2799,5.73,8
+fnlwgt,int64,0,0.0,28523
+education,str,0,0.0,16
+education_num,int64,0,0.0,16
+marital_status,str,0,0.0,7
+occupation,str,2809,5.75,14
+relationship,str,0,0.0,6
+race,str,0,0.0,5
+sex,str,0,0.0,2
+capital_gain,int64,0,0.0,123
+capital_loss,int64,0,0.0,99
+hours_per_week,int64,0,0.0,96
+native_country,str,857,1.75,41
+income,str,0,0.0,2

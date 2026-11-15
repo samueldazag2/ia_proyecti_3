@@ -1,0 +1,6 @@
+variable,Q1,Q3,IQR,limite_inferior,limite_superior,n_atipicos,pct_atipicos,pct_>50K_en_atipicos
+age,28.0,48.0,20.0,-2.0,78.0,215,0.44,17.67
+education_num,9.0,12.0,3.0,4.5,16.5,1787,3.66,5.48
+capital_gain,0.0,0.0,0.0,0.0,0.0,4035,8.27,61.73
+capital_loss,0.0,0.0,0.0,0.0,0.0,2282,4.68,50.13
+hours_per_week,40.0,45.0,5.0,32.5,52.5,13486,27.64,20.18

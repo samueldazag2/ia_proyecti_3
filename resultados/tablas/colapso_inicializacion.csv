@@ -1,0 +1,101 @@
+modelo,id,semilla,f1,colapso,epocas,neuronas_capa1,inactivas_capa1,nunca_activas_capa1,neuronas_capa2,inactivas_capa2,nunca_activas_capa2
+MLP 1 capa oculta,mlp_1capa,0,0.6752,False,36,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,1,0.6856,False,53,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,2,0.6772,False,27,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,3,0.6748,False,15,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,4,0.6835,False,37,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,5,0.6852,False,51,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,6,0.667,False,16,53,1,0,,,
+MLP 1 capa oculta,mlp_1capa,7,0.6769,False,21,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,8,0.6798,False,41,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,9,0.688,False,52,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,10,0.6911,False,44,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,11,0.6747,False,15,53,2,0,,,
+MLP 1 capa oculta,mlp_1capa,12,0.683,False,59,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,13,0.6714,False,49,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,14,0.6795,False,42,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,15,0.6891,False,36,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,16,0.6866,False,42,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,17,0.6781,False,22,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,18,0.6887,False,60,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,19,0.6747,False,19,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,20,0.6866,False,42,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,21,0.686,False,63,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,22,0.6752,False,22,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,23,0.685,False,49,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,24,0.6829,False,67,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,25,0.6658,False,13,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,26,0.665,False,19,53,2,0,,,
+MLP 1 capa oculta,mlp_1capa,27,0.6714,False,21,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,28,0.6762,False,27,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,29,0.6936,False,72,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,30,0.6951,False,54,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,31,0.6731,False,25,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,32,0.659,False,13,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,33,0.6691,False,23,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,34,0.685,False,56,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,35,0.6738,False,36,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,36,0.688,False,41,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,37,0.6586,False,23,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,38,0.6769,False,19,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,39,0.6791,False,26,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,40,0.6747,False,37,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,41,0.6867,False,54,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,42,0.6809,False,36,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,43,0.6731,False,22,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,44,0.6795,False,42,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,45,0.674,False,23,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,46,0.6762,False,29,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,47,0.6671,False,13,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,48,0.6929,False,71,53,0,0,,,
+MLP 1 capa oculta,mlp_1capa,49,0.6904,False,42,53,0,0,,,
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,0,0.6625,False,34,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,1,0.6671,False,32,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,2,0.6694,False,57,2,0,0,2,1,1
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,3,0.6573,False,21,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,4,0.6604,False,32,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,5,0.6597,False,26,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,6,0.6686,False,15,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,7,0.6662,False,17,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,8,0.6619,False,57,2,0,0,2,1,1
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,9,0.6531,False,25,2,1,0,2,1,1
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,10,0.66,False,47,2,0,0,2,1,1
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,11,0.6601,False,37,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,12,0.6617,False,35,2,0,0,2,1,1
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,13,0.0,True,12,2,0,0,2,2,2
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,14,0.6582,False,64,2,1,0,2,1,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,15,0.0,True,20,2,1,0,2,2,1
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,16,0.0,True,20,2,0,0,2,2,2
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,17,0.6695,False,30,2,0,0,2,1,1
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,18,0.6692,False,22,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,19,0.6668,False,27,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,20,0.6679,False,56,2,0,0,2,1,1
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,21,0.6759,False,45,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,22,0.6432,False,18,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,23,0.6677,False,28,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,24,0.6637,False,18,2,0,0,2,1,1
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,25,0.6572,False,34,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,26,0.668,False,71,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,27,0.663,False,94,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,28,0.6608,False,44,2,0,0,2,1,1
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,29,0.6646,False,22,2,0,0,2,1,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,30,0.6514,False,18,2,1,0,2,1,1
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,31,0.6704,False,59,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,32,0.6681,False,20,2,0,0,2,1,1
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,33,0.6604,False,28,2,0,0,2,1,1
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,34,0.6679,False,34,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,35,0.6683,False,17,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,36,0.6608,False,29,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,37,0.6647,False,15,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,38,0.6557,False,27,2,0,0,2,1,1
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,39,0.6563,False,20,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,40,0.6564,False,21,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,41,0.6611,False,25,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,42,0.0009,True,17,2,0,0,2,2,1
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,43,0.6601,False,30,2,0,0,2,0,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,44,0.6661,False,21,2,0,0,2,1,1
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,45,0.6618,False,28,2,0,0,2,1,1
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,46,0.6661,False,19,2,1,0,2,1,1
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,47,0.6581,False,22,2,0,0,2,1,1
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,48,0.6634,False,27,2,0,0,2,1,0
+"MLP 2 capas ocultas (2, 2)",mlp_2x2,49,0.6542,False,20,2,0,0,2,1,1

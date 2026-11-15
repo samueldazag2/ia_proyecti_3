@@ -1,0 +1,4 @@
+columna,nulos,tasa_>50K_con_nulo_%,tasa_>50K_sin_nulo_%
+workclass,2799,9.47,24.81
+occupation,2809,9.43,24.81
+native_country,857,25.67,23.9
